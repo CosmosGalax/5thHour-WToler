@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6deb75ea-b451-4b8c-99ef-e42997e74af4" name="Changes" comment="Changed HW1">
-      <change afterPath="$PROJECT_DIR$/HW2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6deb75ea-b451-4b8c-99ef-e42997e74af4" name="Changes" comment="Submitted HW2">
+      <change afterPath="$PROJECT_DIR$/HW3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.HW1.executor": "Run",
     "Python.HW2.executor": "Run",
+    "Python.HW3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -83,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1787076347408</updated>
       <workItem from="1787076348575" duration="849000" />
-      <workItem from="1787681139339" duration="2145000" />
+      <workItem from="1787681139339" duration="2935000" />
     </task>
     <task id="LOCAL-00001" summary="Changed HW1">
       <option name="closed" value="true" />
@@ -93,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787681280340</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Submitted HW2">
+      <option name="closed" value="true" />
+      <created>1787765896269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1787765896269</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,10 +109,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changed HW1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed HW1" />
+    <MESSAGE value="Submitted HW2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Submitted HW2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW1.coverage" NAME="HW1 Coverage Results" MODIFIED="1787076949628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/5thHour_WToler$HW3.coverage" NAME="HW3 Coverage Results" MODIFIED="1787766131392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW2.coverage" NAME="HW2 Coverage Results" MODIFIED="1787682001328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
