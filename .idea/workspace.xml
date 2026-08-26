@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6deb75ea-b451-4b8c-99ef-e42997e74af4" name="Changes" comment="Submit HW1">
-      <change beforePath="$PROJECT_DIR$/.idea/5thHour-WToler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/5thHour-WToler.iml" afterDir="false" />
+    <list default="true" id="6deb75ea-b451-4b8c-99ef-e42997e74af4" name="Changes" comment="Changed HW1">
+      <change afterPath="$PROJECT_DIR$/HW2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +35,12 @@
     &quot;assignee&quot;: &quot;CosmosGalax&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/CosmosGalax/5thHour-WToler.git",
-    "accountId": "dfd2f60d-46c8-4858-a273-96b022cbf90a"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CosmosGalax/5thHour-WToler.git&quot;,
+    &quot;accountId&quot;: &quot;dfd2f60d-46c8-4858-a273-96b022cbf90a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
   &quot;fromUser&quot;: false
@@ -54,6 +54,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.HW1.executor": "Run",
+    "Python.HW2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -82,13 +83,28 @@
       <option name="presentableId" value="Default" />
       <updated>1787076347408</updated>
       <workItem from="1787076348575" duration="849000" />
+      <workItem from="1787681139339" duration="2145000" />
     </task>
+    <task id="LOCAL-00001" summary="Changed HW1">
+      <option name="closed" value="true" />
+      <created>1787681280340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1787681280340</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed HW1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed HW1" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW1.coverage" NAME="HW1 Coverage Results" MODIFIED="1787076949628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/5thHour_WToler$HW2.coverage" NAME="HW2 Coverage Results" MODIFIED="1787682001328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
