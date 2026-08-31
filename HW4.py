@@ -8,7 +8,7 @@ print("Hello World")
 import math
 #3. Create two variables, x and y, that asks the user for a decimal (float) for x and an integer for y.
 x = float(input("Enter Number"))
-y = float(input("Enter Number"))
+y = int(input("Enter Number"))
 #4. Create a variable with the value that is x and y added together.
 xy = x + y
 #5. Print the variable from #4.
