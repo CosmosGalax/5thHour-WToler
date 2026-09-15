@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6deb75ea-b451-4b8c-99ef-e42997e74af4" name="Changes" comment="Changed HW4">
-      <change afterPath="$PROJECT_DIR$/HW5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6.py" afterDir="false" />
+    <list default="true" id="6deb75ea-b451-4b8c-99ef-e42997e74af4" name="Changes" comment="HW 5 and HW6 Pushed">
+      <change afterPath="$PROJECT_DIR$/HW7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +63,7 @@
     "Python.HW4.executor": "Run",
     "Python.HW5.executor": "Run",
     "Python.HW6.executor": "Run",
+    "Python.HW7.executor": "Run",
     "Python.Testing Grounds.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -98,7 +98,8 @@
       <workItem from="1787681139339" duration="4943000" />
       <workItem from="1788197960925" duration="2409000" />
       <workItem from="1788284207855" duration="659000" />
-      <workItem from="1788976306483" duration="1583000" />
+      <workItem from="1788976306483" duration="3447000" />
+      <workItem from="1789493889140" duration="681000" />
     </task>
     <task id="LOCAL-00001" summary="Changed HW1">
       <option name="closed" value="true" />
@@ -140,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788198572065</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HW 5 and HW6 Pushed">
+      <option name="closed" value="true" />
+      <created>1788977917524</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1788977917524</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,11 +161,13 @@
     <MESSAGE value="Submitted HW3" />
     <MESSAGE value="Submitted HW4" />
     <MESSAGE value="Changed HW4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed HW4" />
+    <MESSAGE value="HW 5 and HW6 Pushed" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW 5 and HW6 Pushed" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/5thHour_WToler$Clac.coverage" NAME="Clac Coverage Results" MODIFIED="1787852348268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW4.coverage" NAME="HW4 Coverage Results" MODIFIED="1788198484513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/5thHour_WToler$HW7.coverage" NAME="HW7 Coverage Results" MODIFIED="1789494528059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW5.coverage" NAME="HW5 Coverage Results" MODIFIED="1788977260991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW1.coverage" NAME="HW1 Coverage Results" MODIFIED="1787076949628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW3.coverage" NAME="HW3 Coverage Results" MODIFIED="1787766647012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
