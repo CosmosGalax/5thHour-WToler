@@ -19,11 +19,7 @@ R3onepointfive = R3 * 1.5
 #6. Print each result from #5 on the same line.
 print(R1two, R2four, R3onepointfive)
 #7. Create a list containing four variables that each randomly generate an integer between 1 and 6
-RL1 = random.randint(1, 6)
-RL2 = random.randint(1, 6)
-RL3 = random.randint(1, 6)
-RL4 = random.randint(1, 6)
-RList = [RL1, RL2, RL3, RL4]
+RList = [random.randint(1 , 6), random.randint(1 , 6), random.randint(1 , 6), random.randint(1 , 6)]
 print(RList)
 #8. Sort the list in #7 and print it.
 RList.sort()
