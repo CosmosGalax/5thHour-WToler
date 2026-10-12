@@ -14,24 +14,28 @@ print(ListRandomabc)
 if ListRandomabc[0] > ListRandomabc[1]:
     if ListRandomabc[0] > ListRandomabc[2]:
         print(ListRandomabc[0], "is the highest")
-        H = ListRandomabc[0]
+        num = ListRandomabc[0]
 if  ListRandomabc[1] > ListRandomabc[0]:
     if ListRandomabc[1] > ListRandomabc[2]:
         print(ListRandomabc[1], "is the highest")
-        H = ListRandomabc[1]
+        num = ListRandomabc[1]
 if ListRandomabc[2] > ListRandomabc[0]:
     if ListRandomabc[2] > ListRandomabc[1]:
         print(ListRandomabc[2], "is the highest")
-        H =ListRandomabc[2]
+        num =ListRandomabc[2]
 #5. Tie the result (the largest number) from #4 to a variable called "num".
-num = H
+
 print(num)
 #6. Create a nested if statement that prints if num is divisible by 2, divisible by 3, both, or neither.
-if num % 3 == 0 and num % 2 == 0:
-    print("Both is divisible by 3 and 2")
-elif num % 2 == 0:
-    print("divisible by 2")
-elif num % 3 == 0:
-    print("divisible by 3")
+if num % 2 == 0 and num % 3 == 0:
+   print("divisible by both 3 and 2")
 else:
-    print(num, "is not divisible by both 2 and 3")
+   if num % 2 == 0:
+       print("divisible by 2")
+   else:
+       if num % 3 == 0:
+           print("divisible by 3")
+       else:
+           print("not divisible by 3 or 2")
+
+
