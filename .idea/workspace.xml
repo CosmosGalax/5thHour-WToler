@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6deb75ea-b451-4b8c-99ef-e42997e74af4" name="Changes" comment="HW10, HW11, HW12 PUSHED">
+      <change afterPath="$PROJECT_DIR$/HW13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SC2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW11.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +62,7 @@
     "Python.HW10.executor": "Run",
     "Python.HW11.executor": "Run",
     "Python.HW12.executor": "Run",
+    "Python.HW13.executor": "Run",
     "Python.HW2.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
@@ -68,6 +70,7 @@
     "Python.HW6.executor": "Run",
     "Python.HW7.executor": "Run",
     "Python.HW8.executor": "Run",
+    "Python.SC2.executor": "Run",
     "Python.Testing Grounds.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -106,6 +109,7 @@
       <workItem from="1789493889140" duration="1653000" />
       <workItem from="1790185131676" duration="15000" />
       <workItem from="1791394767090" duration="6062000" />
+      <workItem from="1792432368799" duration="3738000" />
     </task>
     <task id="LOCAL-00001" summary="Changed HW1">
       <option name="closed" value="true" />
@@ -206,6 +210,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="HW10, HW11, HW12 PUSHED" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/5thHour_WToler$SC2.coverage" NAME="SC2 Coverage Results" MODIFIED="1792519348418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW5.coverage" NAME="HW5 Coverage Results" MODIFIED="1788977260991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW3.coverage" NAME="HW3 Coverage Results" MODIFIED="1787766647012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW11.coverage" NAME="HW11 Coverage Results" MODIFIED="1791567533708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -214,6 +219,7 @@
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW10.coverage" NAME="HW10 Coverage Results" MODIFIED="1791395370329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$Clac.coverage" NAME="Clac Coverage Results" MODIFIED="1787852348268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW4.coverage" NAME="HW4 Coverage Results" MODIFIED="1788198484513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/5thHour_WToler$HW13.coverage" NAME="HW13 Coverage Results" MODIFIED="1792432972200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW7.coverage" NAME="HW7 Coverage Results" MODIFIED="1789494528059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW1.coverage" NAME="HW1 Coverage Results" MODIFIED="1787076949628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW6.coverage" NAME="HW6 Coverage Results" MODIFIED="1788977887317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
