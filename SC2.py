@@ -18,7 +18,7 @@ PatientWeightLb = float(input("Enter Patient's Weight(lbs): "))
 PatientHeight = (input("Enter Patient's Height(Feet'Inch): "))
 Feet, Inch, = PatientHeight.split("'")
 PatientHeightFeet = (int(Inch)) + (int(Feet) * 12)
-PatientBMI = (PatientWeightLb / (PatientHeightFeet ** 2)) * -703
+PatientBMI = (PatientWeightLb / (PatientHeightFeet ** 2)) * 703
 
 if PatientBMI > 30:
     print("You are Obese your BMI is", round(PatientBMI, 1))
