@@ -15,10 +15,10 @@ import math
 #It is up to you to figure out the calculation for an accurate BMI reading and tying it to
 #the right classification
 PatientWeightLb = float(input("Enter Patient's Weight(lbs): "))
-PatientHeight = (input("Enter Patient's Height(Feet): "))
-Feet, Inch, = PatientHeight.split(",")
+PatientHeight = (input("Enter Patient's Height(Feet'Inch): "))
+Feet, Inch, = PatientHeight.split("'")
 PatientHeightFeet = (int(Inch)) + (int(Feet) * 12)
-PatientBMI = (PatientWeightLb / (PatientHeightFeet ** 2)) * 703
+PatientBMI = (PatientWeightLb / (PatientHeightFeet ** 2)) * -703
 
 if PatientBMI > 30:
     print("You are Obese your BMI is", round(PatientBMI, 1))
