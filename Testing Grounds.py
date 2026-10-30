@@ -5,18 +5,21 @@ Index = 0
 picked_Value = List_To_Sort[Index]
 print(List_To_Sort)
 Remove = List_To_Sort.pop(Index + 1)
+def Swap():
+    global Index
+    global List_To_Sort
+    global picked_Value
+    List_To_Sort.insert(Index-1, Index + 1)
+    List_To_Sort.pop(List_To_Sort[Index+1])
 def Check():
     global Index
     global Remove
     print(Index)
     picked_Value = List_To_Sort[Index]
     print("Picked Value: ", picked_Value)
+    print(List_To_Sort[Index + 1])
     if picked_Value > List_To_Sort[Index + 1]:
-        List_To_Sort.insert(Index+1,picked_Value)
-        List_To_Sort.pop(Index + 1)
-        List_To_Sort.insert(Index, Remove)
-        List_To_Sort.remove(List_To_Sort[Index+2])
-        print(List_To_Sort)
+        Swap()
         Index = Index + 1
     else:
         print("Passed")
