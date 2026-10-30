@@ -1,20 +1,27 @@
-import random
-AmountOfJackpots = 0
-CountTillJackpot = 2
-JackpotTries = []
-Tries = int(input("How many Tries would you like?"))
-for _ in range(Tries) :
-    Slot1 = random.randint(1, 9)
-    Slot2 = random.randint(1, 9)
-    Slot3 = random.randint(1, 9)
-    SlotList = [Slot1, Slot2, Slot3]
-    print(SlotList)
-    CountTillJackpot = CountTillJackpot + 1
-    if SlotList[0] and SlotList[1] and SlotList[2] == 7:
-        AmountOfJackpots += 1
-        print(SlotList)
-        print("Found Jackpot in", str(CountTillJackpot), "tries")
-        JackpotTries.append(CountTillJackpot)
-        CountTillJackpot = 2
-print("Total about of Jackpots for", Tries, "Tries is", AmountOfJackpots, "or", str(round(Tries/AmountOfJackpots, 2))+ "% chance")
-JackpotTries = []
+import random as r
+List_To_Sort = [r.randint(1,100), r.randint(1,100), r.randint(1,100), r.randint(1,100), r.randint(1,100)]
+list_length = len(List_To_Sort)
+Index = 0
+picked_Value = List_To_Sort[Index]
+print(List_To_Sort)
+Remove = List_To_Sort.pop(Index + 1)
+def Check():
+    global Index
+    global Remove
+    print(Index)
+    picked_Value = List_To_Sort[Index]
+    print("Picked Value: ", picked_Value)
+    if picked_Value > List_To_Sort[Index + 1]:
+        List_To_Sort.insert(Index+1,picked_Value)
+        List_To_Sort.pop(Index + 1)
+        List_To_Sort.insert(Index, Remove)
+        List_To_Sort.remove(List_To_Sort[Index+2])
+        print(List_To_Sort)
+        Index = Index + 1
+    else:
+        print("Passed")
+    print(Index)
+
+
+for i in range(list_length - 1):
+    Check()

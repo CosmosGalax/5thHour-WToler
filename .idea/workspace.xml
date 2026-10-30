@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6deb75ea-b451-4b8c-99ef-e42997e74af4" name="Changes" comment="HW13, SC2 PUSHED" />
+    <list default="true" id="6deb75ea-b451-4b8c-99ef-e42997e74af4" name="Changes" comment="SC2 UPDATE">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing Grounds.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testing Grounds.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +108,7 @@
       <workItem from="1789493889140" duration="1653000" />
       <workItem from="1790185131676" duration="15000" />
       <workItem from="1791394767090" duration="6062000" />
-      <workItem from="1792432368799" duration="4489000" />
+      <workItem from="1792432368799" duration="13446000" />
     </task>
     <task id="LOCAL-00001" summary="Changed HW1">
       <option name="closed" value="true" />
@@ -195,7 +198,23 @@
       <option name="project" value="LOCAL" />
       <updated>1792519665636</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="HW13, SC2 PUSHED">
+      <option name="closed" value="true" />
+      <created>1792604694555</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1792604694555</updated>
+    </task>
+    <task id="LOCAL-00013" summary="SC2 UPDATE">
+      <option name="closed" value="true" />
+      <created>1792604790801</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1792604790801</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,14 +231,15 @@
     <MESSAGE value="HW8 PUSHED" />
     <MESSAGE value="HW10, HW11, HW12 PUSHED" />
     <MESSAGE value="HW13, SC2 PUSHED" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW13, SC2 PUSHED" />
+    <MESSAGE value="SC2 UPDATE" />
+    <option name="LAST_COMMIT_MESSAGE" value="SC2 UPDATE" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/5thHour_WToler$SC2.coverage" NAME="SC2 Coverage Results" MODIFIED="1792519724937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/5thHour_WToler$SC2.coverage" NAME="SC2 Coverage Results" MODIFIED="1792604771012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW5.coverage" NAME="HW5 Coverage Results" MODIFIED="1788977260991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW3.coverage" NAME="HW3 Coverage Results" MODIFIED="1787766647012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW11.coverage" NAME="HW11 Coverage Results" MODIFIED="1791567533708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/5thHour_WToler$Testing_Grounds.coverage" NAME="Testing Grounds Coverage Results" MODIFIED="1788284253112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/5thHour_WToler$Testing_Grounds.coverage" NAME="Testing Grounds Coverage Results" MODIFIED="1793383675774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW12.coverage" NAME="HW12 Coverage Results" MODIFIED="1791396986790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$HW10.coverage" NAME="HW10 Coverage Results" MODIFIED="1791395370329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/5thHour_WToler$Clac.coverage" NAME="Clac Coverage Results" MODIFIED="1787852348268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
