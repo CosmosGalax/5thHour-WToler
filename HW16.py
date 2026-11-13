@@ -53,7 +53,7 @@ for t in range(1, 101):
 ## random name picker
 prefixes = ["king ", "queen ", "Mr.", "Mrs.", "Miss.", "Ms.", "Mx.", "Dr.", "Prof.", "Rev.", "Capt.", "Sir ", "Dame ", "Lord ", "Lady ", ""]
 Random_letters = ["a", "b", "c", "d", "e", "f", "g", "h", "i","j","k",'l','m','o','p','q','r','s','t','u','v','x','y','z']
-suffixes = ["Jr.","", "Senior."]
+suffixes = ["Jr.","", "Senior"]
 FinalName = []
 for p in range(5):
     name = random.choice(Random_letters)
