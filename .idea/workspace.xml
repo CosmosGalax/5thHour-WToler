@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6deb75ea-b451-4b8c-99ef-e42997e74af4" name="Changes" comment="Pushed SC3">
-      <change afterPath="$PROJECT_DIR$/HW15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW16.py" afterDir="false" />
+    <list default="true" id="6deb75ea-b451-4b8c-99ef-e42997e74af4" name="Changes" comment="Pushed HW16">
+      <change afterPath="$PROJECT_DIR$/SC4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +74,7 @@
     "Python.HW8.executor": "Run",
     "Python.SC2.executor": "Run",
     "Python.SC3.executor": "Run",
+    "Python.SC4.executor": "Run",
     "Python.Testing Grounds.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -260,7 +260,23 @@
       <option name="project" value="LOCAL" />
       <updated>1793819708352</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Pushed HW15 AND HW16">
+      <option name="closed" value="true" />
+      <created>1794595245951</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1794595245951</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Pushed HW16">
+      <option name="closed" value="true" />
+      <created>1794595462764</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1794595462764</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,7 +299,9 @@
     <MESSAGE value="HW14 Pushed!" />
     <MESSAGE value="HW14 Changed Name!" />
     <MESSAGE value="Pushed SC3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pushed SC3" />
+    <MESSAGE value="Pushed HW15 AND HW16" />
+    <MESSAGE value="Pushed HW16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pushed HW16" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/5thHour_WToler$SC2.coverage" NAME="SC2 Coverage Results" MODIFIED="1792604771012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
