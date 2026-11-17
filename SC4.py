@@ -12,6 +12,9 @@ APlayers = int(input("Amount of players: "))
 total = 0
 for i in range(APlayers-1):
     rate = int(input("What do you wanna rate the model from 1 to 5: "))
-    if 5 > rate > 0:
+    while not 5 > rate > 0:
+        print("Error Out Of Range")
+        rate = int(input("What do you wanna rate the model from 1 to 5: "))
+    else:
         total += rate
 print(total / (APlayers-1))
